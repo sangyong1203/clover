@@ -136,7 +136,7 @@ export default {
         hasCheckedFormat: '{checked}/{total} 선택됨',
       },
       image: {
-        error: '불러오기 실패',
+        error: '이미지 없음',
       },
       pageHeader: {
         title: '뒤로',
