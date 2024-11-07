@@ -27,7 +27,8 @@
     "tui-grid": "^4.21.22",
     "typescript": "^5.6.3",
     "vue": "^3.5.12",
-    "vue-router": "^4.4.5"
+    "vue-router": "^4.4.5",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@tsconfig/node20": "^20.1.4",
